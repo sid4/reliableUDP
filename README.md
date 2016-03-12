@@ -1,3 +1,5 @@
+Please refer to the wiki section for introduction, features and implementation details.
+
 # Insrtuctions for running multithreaded reliable UDP client/server program:
 
 1. In the current folder, run make in terminal to create executable files server_udp client_udp
